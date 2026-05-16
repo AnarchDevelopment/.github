@@ -2,6 +2,8 @@
 
 # Tenemos:
 
-<img width="50" height="50" alt="appicon" src="https://github.com/user-attachments/assets/a8e5ab76-ec1f-47a3-8cb0-24765c5db6f6" />
-**Amatayakul Client**  
+<p>
+  <img src="https://github.com/user-attachments/assets/07ca0266-705c-45d7-b978-038c0fa7a6a1" width="20" style="vertical-align: middle;" />
+  <b>Amatayakul Client</b>
+</p>
 
