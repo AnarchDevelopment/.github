@@ -1,5 +1,7 @@
-<div style="text-align:center;">
-  <h1>Anarch Development</h1>
+<div align="center">
+
+# Anarch Development
+
 </div>
 <strong>Hacemos clients para Minecraft Windows 10 Edition Beta 0.15.10</strong>
 
