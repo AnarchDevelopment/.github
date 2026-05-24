@@ -1,5 +1,5 @@
 # Anarch Development
-
+<p align="center">
 **Hacemos clients para Minecraft Windows 10 Edition Beta 0.15.10**
 
 
@@ -10,6 +10,7 @@
   <a href="https://discord.gg/3fJ9gKq98Q">
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
+</p>
 </p>
 
 # Tenemos:
