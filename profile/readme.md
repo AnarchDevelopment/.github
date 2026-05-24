@@ -16,7 +16,7 @@
 </p>
 </p>
 </div>
-# Tenemos:
+<div align="center"><b style="font-size:15px;">Tenemos:</b>
 
 <table>
   <tr>
@@ -47,5 +47,5 @@
     </td>
   </tr>
 </table>
-
+</div>
 
