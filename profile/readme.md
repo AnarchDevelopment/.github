@@ -7,15 +7,15 @@
 
 
 <img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/30fb2a80-804f-4be3-ac7c-10c8cf5bfa95" />
-
-**Entra a nuestra comunidad para updates**
+<div align="center">
+<strong>Entra a nuestra comunidad para updates</strong>
 <p>
   <a href="https://discord.gg/3fJ9gKq98Q">
     <img src="https://img.shields.io/badge/Join%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
   </a>
 </p>
 </p>
-
+</div>
 # Tenemos:
 
 <table>
