@@ -1,6 +1,6 @@
 # Anarch Development
 <p align="center">
-**Hacemos clients para Minecraft Windows 10 Edition Beta 0.15.10**
+<strong>Hacemos clients para Minecraft Windows 10 Edition Beta 0.15.10</strong>
 
 
 <img width="1280" height="320" alt="banner" src="https://github.com/user-attachments/assets/30fb2a80-804f-4be3-ac7c-10c8cf5bfa95" />
