@@ -35,7 +35,7 @@
       </td>
     </tr>
 
-    <tr>
+   <tr>
       <td align="center">
         <img src="https://github.com/user-attachments/assets/96769f4d-3c47-447b-8758-3aa7e66fb8e6" width="32" />
       </td>
@@ -48,5 +48,6 @@
         Hacked client developed by An4rch
       </td>
     </tr>
+    
   </table>
 </div>
